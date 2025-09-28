@@ -7,9 +7,9 @@ Full-Stack Developer and Machine Learning Engineer
 I am a technology enthusiast with a wide range of interests in all things S.T.E.M. I am currently doing full-stack web development with Node JS & Express or Python's Fast API for the backend and React JS or HTML5, CSS3 (and libraries), and JavaScript (ES6) for the front-end. Similarly, I am interested in Artificial Intelligence (particularly ML and DL) and Blockchain technology.
 
 * 🌍  I'm based in Lagos, Nigeria
-* 🖥️  See my portfolio at [My External Portfolio](http://www.freecodecamp.org/fcc96ba716e-8ebc-482f-8b4c-b7b94568cad5)
+* 🖥️  See my portfolio at [My External Portfolio](https://victor-portfolio-x.vercel.app/)
 * ✉️  You can contact me at [freelanceel0@gmail.com](mailto:freelanceel0@gmail.com)
-* 🚀  I'm currently working on [A Random Quotes Machine](http://elvicharde.github.io/react-project-preview/)
+* 🚀  I'm currently working on [MAP Suppliers ERP](https://suppliers.mapis4u.com/login)
 * 🧠  I'm learning Python's Django and SOLID principles
 * 🤝  I'm open to collaborating on Interesting projects within the domain of Web Development, Machine Learning, and Automation.
 * ⚡  In my free time, I play Call of Duty, Metal Gear, Football, and drums.
